@@ -84,4 +84,4 @@ protected function celebrateAttack(): void {
 ```
 ## License
 
-This project is licensed under the [LICENSE](MIT License)
+This project is licensed under the (LICENSE)[MIT LICENSE]
