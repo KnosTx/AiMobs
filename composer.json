@@ -1,0 +1,17 @@
+{
+    "name": "clousclouds/mobai",
+    "type": "library",
+    "require": {
+        "php": "^8.1",
+        "ext-xml": "*",
+        "ext-json": "*",
+        "pocketmine/nbt": "^1.0",
+        "pocketmine/math": "^1.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "clousclouds\\mobai\\": "src/"
+        }
+    }
+}
