@@ -25,9 +25,9 @@ This library provides an extensible AI system for mobs in PocketMine-MP using th
    composer require clousclouds/mobai
 
 2. Ensure that Composer's autoloader is included in your project:
-```bash
-require 'vendor/autoload.php';
-```
+   ```php
+   require 'vendor/autoload.php';
+   ```
 
 
 ## Usage
